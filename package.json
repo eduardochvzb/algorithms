@@ -1,0 +1,11 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "multiplication.js",
+  "scripts": {
+    "test": "node multiplication.js"
+  },
+  "author": "echvzb",
+  "license": "ISC"
+}
